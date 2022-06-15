@@ -1,5 +1,5 @@
 # archive_compactor
-My final project for prof. Gilson's class
+My final project for prof. Gilson's class\n
 It emulates how a text file is compressed and decompressed.
 In it i used the following data structures :
 - Huffman Tree
